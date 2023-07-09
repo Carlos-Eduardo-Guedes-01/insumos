@@ -1,4 +1,4 @@
-import 'package:app_preservacao/views/rodape.dart';
+import '../views/rodape.dart';
 import 'package:flutter/material.dart';
 
 class SobrePage extends StatelessWidget {

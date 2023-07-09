@@ -1,4 +1,4 @@
-import 'package:app_preservacao/views/widget_explica.dart';
+import '../views/widget_explica.dart';
 import 'package:flutter/material.dart';
 import '../views/rodape.dart' as RODAPE;
 

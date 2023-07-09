@@ -1,5 +1,5 @@
-import 'package:app_preservacao/views/primary_page.dart';
-import 'package:app_preservacao/views/sobre.dart';
+import '../views/primary_page.dart';
+import '../views/sobre.dart';
 import 'package:flutter/material.dart';
 
 import '../screen/detalhes.dart';

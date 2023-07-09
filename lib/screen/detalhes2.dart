@@ -1,4 +1,4 @@
-import 'package:app_preservacao/models/models.dart';
+import '../models/models.dart';
 import 'package:flutter/material.dart';
 import '../views/case.dart';
 import '../views/details/fetch_details.dart';

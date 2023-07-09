@@ -1,4 +1,4 @@
-import 'package:app_preservacao/views/case.dart';
+import '../views/case.dart';
 import 'package:flutter/material.dart';
 
 Widget widget_cards(String titulo) {

@@ -1,4 +1,4 @@
-import 'package:app_preservacao/models/models.dart';
+import '../models/models.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 import 'package:remove_diacritic/remove_diacritic.dart';

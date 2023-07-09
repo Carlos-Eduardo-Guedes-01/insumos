@@ -1,7 +1,7 @@
-import 'package:app_preservacao/models/models.dart';
-import 'package:app_preservacao/screen/home_template.dart';
+import '../models/models.dart';
+import '../screen/home_template.dart';
 import 'package:flutter/material.dart';
-import 'package:app_preservacao/api/api.dart' as API;
+import '../api/api.dart' as API;
 import '../views/rodape.dart' as RODAPE;
 
 class ScreenHomePage extends StatefulWidget {
