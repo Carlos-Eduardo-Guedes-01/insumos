@@ -1,10 +1,9 @@
-# app_preservacao
+# Aplicativo agrícola
 
 A new Flutter project.
 
-## Getting Started
+## Faça siga os passos abaixo
 
-This project is a starting point for a Flutter application.
 
 Clique na imagem para ver o vídeo de apresentação no youtube:
 <div style="text-align: center;">
