@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-<div style='display:flex;flex-direction:column;justify-content:center;align-items:center;'>
+<div>
 <a href="https://youtu.be/FRONnF87BdE">
   <img src="https://github.com/Carlos-Eduardo-Guedes-01/insumos/blob/main/apresentacao/Screenshot_20230709-192326.jpg" alt="Clique aqui" width="300">
 </a>
